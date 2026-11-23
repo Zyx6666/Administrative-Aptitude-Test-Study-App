@@ -1,0 +1,19 @@
+# Gradle 构建产物
+IdiomApp/.gradle/
+IdiomApp/build/
+IdiomApp/app/build/
+
+# 本地环境配置
+IdiomApp/local.properties
+
+# IDE
+.idea/
+*.iml
+
+# 临时文件
+.screenshots/
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
